@@ -1,0 +1,6 @@
+body {
+	background-color: #linear-gradient(bottom,rgba(0,0,0,.5), rgba(0,0,0,.5)),url("../images/background.jpg")
+}
+h1, p {
+	color: #4DB84D
+}

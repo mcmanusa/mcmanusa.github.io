@@ -6,7 +6,7 @@ body{
 	background-repeat: no-repeat;
 }
 h1{
-	font-family: copperplate;
+	font-family: 'Lobster', cursive;
 	font-size: 72px;
 	font-style: normal;
 	font-variant: small-caps;
@@ -26,7 +26,7 @@ h1{
 	font-variant: small-caps;
 	font-weight: 400;
 	line-height: 0px;
-	margin-bottom: 90px;
+	margin-bottom: 200px;
 	text-align: center;
 }
 p{
@@ -35,23 +35,25 @@ p{
 	font-style: normal;
 	font-variant: small-caps;
 	font-weight: 400;
-	line-height: 20px;
+	line-height: 25px;
+	margin-right: 100px;
+	margin-left: 100px;
 	text-align: left;
-	color: rgb(#03043b);
-	} 
-
+	color: #03043b;
+} 
 .list {
 	margin: auto;
 	width: 250px;
 	list-style-type: disc;
 	list-style-position: inside;
-	line-height: 20px;
+	line-height: 25px;
+	font-family: 'gill sans', 'gill sans mt', calibri, sans-serif;
 	font-size: 20px;
-	color: rgb(#ffffff);
+	color: #03043b;
 }
+
 h3{
-<a href="2DaughtersDesigns@2d.com">2DaughtersDesigns@2d.com</a>
-	color: rgb(0,0,255);
+	color: #03043b;
 	font-family: 'gill sans', 'gill sans mt', calibri, sans-serif;
 	font-size: 24px;
 	font-style: normal;
@@ -59,4 +61,6 @@ h3{
 	font-weight: 400;
 	line-height: 20px;
 	text-align: left;
+	margin-right: 100px;
+	margin-left: 100px;
 }

@@ -5,7 +5,9 @@ body{
  	height:200px;
  }
  #header{
-background-image: url(); }
+	images: url(images/kubb7.jpg);
+	height: 200px;
+}
 h1{
 	font-family: 'Michroma', sans-serif;	
 	text-align: center;
@@ -20,20 +22,25 @@ h2{
 	padding-right: 570px;
 	padding-bottom: 500px;
 }
-.right{
+.nav{
 	display: block;
 	text-align: center;
 	font-family: 'Michroma', sans-serif;
+	color: #ffffff;
+	float: top;
+	width: 100%;
+}
+p{
+	font-family: 'Michroma', sans-serif;
+	font-style: bold;
 	color: #008DFF;
-	letter-spacing: 1.5px;
-	float: center;
-	width: auto;
+	display: block;
 }
 #social {
+	padding-top: 1px;
 	font-family: 'Michroma', sans-serif;
 	color: #ffffff;
 	display: block;
-	padding-bottom: 10px;
 	background-color: #000000;
 }
 
